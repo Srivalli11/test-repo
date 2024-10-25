@@ -1,2 +1,2 @@
-"This is a local."
+This is a local.
 This is gitproject
